@@ -1,4 +1,4 @@
 # Project-Start-Up-Digital-Lanjut
 
 Instal NPM dulu (https://nodejs.org)
-Jalaninnya **nmp run build**
+Jalaninnya **npm run build**
