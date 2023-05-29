@@ -8,15 +8,9 @@ class AppHome extends HTMLElement {
         <section class="home" id="home">
           <div class="container">
           <h2 class="home__title title">Detail Toko</h2>
-            <div class="home__inner">
-              <div class="home__video">
-                <div class="home__video-container">
-                  <video width="1200" height="525" controls>
-                    <source src="Gallery aset video.mp4" type="video/mp4">
-                  </video>								  
-                </div>
-              </div>
-            </div>
+            <div class="home__video-container">
+              <iframe width="1280" height="720" src="https://www.youtube.com/embed/CA4l4S2P7As?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              </div>   
           </div>
         </section>
       `;

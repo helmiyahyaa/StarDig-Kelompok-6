@@ -12,33 +12,33 @@ class AppOurMenu extends HTMLElement {
               <div class="our-menu__item">
                 <div class="our-menu__list">
                   <div class="our-menu__image">
-                  <img src="src/img/2.jpg" alt="" class="our-menu__img img">
+                  <img src="src/img/1.png" alt="" class="our-menu__img img">
                   </div>
-                  <div class="our-menu__name">Cimi-Cimi Original</div>
-                  <div class="our-menu__price">Rp 10.000</div>
+                  <div class="our-menu__name">Balado</div>
+                  <div class="our-menu__price">Rp 30.000/Kg</div>
                 </div>
               </div>
               <div class="our-menu__item">
                 <div class="our-menu__list">
                   <div class="our-menu__image">
-                  <img src="src/img/2.jpg" alt="" class="our-menu__img img">
+                  <img src="src/img/3.png" alt="" class="our-menu__img img">
                   </div>
-                  <div class="our-menu__name">Cimi-Cimi Original</div>
-                  <div class="our-menu__price">Rp 10.000</div>
+                  <div class="our-menu__name">Original</div>
+                  <div class="our-menu__price">Rp 30.000/kg</div>
                 </div>
               </div>
               <div class="our-menu__item">
                 <div class="our-menu__list">
                   <div class="our-menu__image">
-                  <img src="src/img/2.jpg" alt="" class="our-menu__img img">
+                  <img src="src/img/2.png" alt="" class="our-menu__img img">
                   </div>
-                  <div class="our-menu__name">Cimi-Cimi Original</div>
-                  <div class="our-menu__price">Rp 10.000</div>
+                  <div class="our-menu__name">Keju</div>
+                  <div class="our-menu__price">Rp 30.000/kg</div>
                 </div>
               </div>
             </div>
             <div class="our-menu__order">
-              <a href="https://wa.me/6282110059178" class="our-menu__orderbutton">Order Now</a>
+              <a href="https://wa.me/6282351110273" class="our-menu__orderbutton">Order Now</a>
             </div>
           </div>
         </section>

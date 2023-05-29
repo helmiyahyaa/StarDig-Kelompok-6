@@ -23,10 +23,11 @@ class Header extends HTMLElement {
                     </li>
                     <li class="menu__item">
                       <a href="#home" class="menu__link">Detail Toko</a>
-                    </li>
-                    <li class="menu__item">
+                      </li>
+                      <!-- <li class="menu__item">
                       <a href="#service" class="menu__link">Layanan</a>
-                    </li>
+                    </li> -->
+                    
                   </ul>
                 </nav>
               </div>

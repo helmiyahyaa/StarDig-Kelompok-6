@@ -6,11 +6,7 @@ class AppFooter extends HTMLElement {
     connectedCallback() {
       this.innerHTML = `
         <footer class="footer">
-          <div class="footer__copyright">
-            <div class="footer__cooper text">Copyright © 
-              <a class="footer__link-bio" target="_blank">Mila</a>, 2023. All rights reserved.
-            </div>
-          </div>
+          © 2023 CHIMI CHIMI BY UTI. Made with KELOMPOK 6 STARTUP DIGITAL ITK.
         </footer>
       `;
     }
